@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dedb64b-a85c-42fd-b311-189e486ce0dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/liip_imagine.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/liip_imagine.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +325,7 @@
       <workItem from="1632297913630" duration="6230000" />
       <workItem from="1632381070795" duration="9574000" />
       <workItem from="1632469999817" duration="10026000" />
-      <workItem from="1632555526365" duration="11494000" />
+      <workItem from="1632555526365" duration="15593000" />
     </task>
     <servers />
   </component>
