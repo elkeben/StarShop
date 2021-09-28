@@ -1,0 +1,4 @@
+sylius_mailer:
+    sender:
+        name: Star Shop
+        address: student@bes-webdeveloper-seraing.be
