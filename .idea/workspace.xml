@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dedb64b-a85c-42fd-b311-189e486ce0dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +337,14 @@
       <workItem from="1632937617600" duration="1215000" />
       <workItem from="1632985853879" duration="3766000" />
       <workItem from="1632995483886" duration="1943000" />
-      <workItem from="1632997456868" duration="5299000" />
+      <workItem from="1632997456868" duration="6921000" />
+      <workItem from="1633071912233" duration="7723000" />
+      <workItem from="1633081695323" duration="2965000" />
+      <workItem from="1633090310676" duration="560000" />
+      <workItem from="1633090924394" duration="1225000" />
+      <workItem from="1633092243494" duration="1173000" />
+      <workItem from="1633093502369" duration="1946000" />
+      <workItem from="1633159660928" duration="464000" />
     </task>
     <servers />
   </component>
@@ -374,26 +381,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="473" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1632999021074" />
-    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1632995749234">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1633094110067">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1632995749234" />
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1633003503815">
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1633094110067" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1633093539943">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1633003503815" />
-    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1633003503815">
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1633093539943" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1633093539927">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1633003503815" />
-    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1633003503815">
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1633093539927" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1633093539927">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1633003503815" />
-    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1633003503815">
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1633093539927" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1633093539927">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1633003503815" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1633093539927" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1633002360965">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -402,25 +409,33 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="520" height="446" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1632822993203" />
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1632997460764">
+    <state x="107" y="82" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1633094212136">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1632997460764" />
-    <state x="406" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1632996726631">
+    <state x="107" y="82" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1633094212136" />
+    <state x="68" y="73" width="1554" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1633093007025">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="406" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1632996726631" />
-    <state x="431" y="72" width="919" height="667" key="find.popup" timestamp="1632996696566">
+    <state x="68" y="73" width="1554" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1633093007025" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1633159662928">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="72" width="919" height="667" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1632996696566" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1633159662928" />
+    <state x="406" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1633092004039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="406" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1633092004039" />
+    <state x="369" y="25" width="919" height="667" key="find.popup" timestamp="1633160111880">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="369" y="25" width="919" height="667" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1633160111880" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1632827348664">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1632827348664" />
-    <state x="487" y="125" width="890" height="678" key="search.everywhere.popup" timestamp="1633001332101">
+    <state x="487" y="125" width="890" height="678" key="search.everywhere.popup" timestamp="1633160079733">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="487" y="125" width="890" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1633001332101" />
+    <state x="487" y="125" width="890" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1633160079733" />
   </component>
 </project>
